@@ -41,16 +41,15 @@ El proyecto utiliza un conjunto de datos de solicitudes de préstamos que incluy
 
 El proyecto está desarrollado en Python y utiliza las siguientes librerías principales:
 
-```python
-# Análisis de datos
+**Análisis de datos:**
 - pandas
 - numpy
 
-# Visualización
+**Visualización:**
 - matplotlib
 - seaborn
 
-# Machine Learning
+**Machine Learning:**
 - scikit-learn
   - LogisticRegression
   - GaussianNB
@@ -60,12 +59,11 @@ El proyecto está desarrollado en Python y utiliza las siguientes librerías pri
   - Pipeline
   - ColumnTransformer
 
-# Persistencia
+**Persistencia:**
 - joblib
 
-# Entorno
+**Entorno:**
 - Google Colab
-```
 
 ## 📁 Estructura del Proyecto
 
